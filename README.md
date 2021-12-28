@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-// I'm Andrei, Software Engineer at [@Servoy](https://github.com/Servoy)
+// I'm Andrei, Software Engineer / Freelancer / Independent Contractor. 
 
-💻 Currently working with Angular 12, Typescript, Javascript, AngularJS, Java 11
+💻  Worked with Java 11, Angular, ReactJS, Typescript, Javascript, Ionic Framework and other technologies. 
 
 📚 Enthusiastic learner, always willing to learn new things and technologies.
 
-💬 Ask me about Java, Javascript, Typescript, Angular, Ionic Framework. 
+💬 Currently I'm open to new positions. 
 
 #### 📫 Reach me on: [LinkedIn](https://www.linkedin.com/in/andrei-bogdan-fara-b93123110/) or [Email](https://www.linkedin.com/in/andrei-bogdan-fara-b93123110/)
 <!--
