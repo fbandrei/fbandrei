@@ -6,7 +6,7 @@
 
 📚 Enthusiastic learner, always willing to learn new things and technologies.
 
-💬 Currently I'm open to new positions. 
+💬 Currently I'm open to new positions, let's have a chat!
 
 #### 📫 Reach me on: [LinkedIn](https://www.linkedin.com/in/andrei-bogdan-fara-b93123110/) or andreibogdan.fara@gmail.com
 <!--
