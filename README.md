@@ -2,7 +2,7 @@
 
 // I'm Andrei, Software Engineer / Freelancer / Independent Contractor. 
 
-💻  Worked with Java 11, Angular, ReactJS, Typescript, Javascript, Ionic Framework and other technologies. 
+💻  Worked with Java 11, Spring, Angular, ReactJS, Typescript, Javascript, Ionic Framework and other technologies. 
 
 📚 Enthusiastic learner, always willing to learn new things and technologies.
 
