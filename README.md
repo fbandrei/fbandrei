@@ -8,7 +8,7 @@
 
 💬 Currently I'm open to new positions. 
 
-#### 📫 Reach me on: [LinkedIn](https://www.linkedin.com/in/andrei-bogdan-fara-b93123110/) or [Email](andreibogdan.fara@gmail.com)
+#### 📫 Reach me on: [LinkedIn](https://www.linkedin.com/in/andrei-bogdan-fara-b93123110/) or andreibogdan.fara@gmail.com
 <!--
 **fbandrei/fbandrei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
